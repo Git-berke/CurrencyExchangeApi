@@ -1,7 +1,7 @@
 # CurrencyExchangeApi
 
 This project is an ASP.NET Core Web API application that fetches real-time exchange rates from an external API (Exchangerate-API) and serves them through its own RESTful API. Users can access up-to-date currency exchange rates based on a specified base currency.
-
+da
 ## Project Goal
 
 * To learn how to integrate an external third-party API (Exchangerate-API) securely and efficiently.
