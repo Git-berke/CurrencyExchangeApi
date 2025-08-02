@@ -102,3 +102,6 @@ If you'd like to contribute, feel free to submit a pull request.
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for more details (if you create a `LICENSE` file).
+
+
+selamlar bu benim currency api projem lütfen destek olmayı unutmayın !!!!31
