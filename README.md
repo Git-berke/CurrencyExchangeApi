@@ -85,7 +85,7 @@ Explore and test the API endpoints via Swagger UI once the project is running.
           }
         }
         ```
-
+asd
 ## Error Handling
 
 The API will return informative HTTP status codes and messages for potential errors:
